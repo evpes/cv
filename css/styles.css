@@ -4,10 +4,10 @@ body {
 hr {
   background-color: white;
   height: 0px;
-  width: 8%;
+  width: 10px;
   border-style: none;
   border-top-style: dotted ;
-  border-width: 5px;
+  border-width: 8px;
   border-color: grey;
 }
 h1 {
